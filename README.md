@@ -1,5 +1,5 @@
 # OCT Classicication task for AMD/DME/CNV/DRUSEN
- - Our code is build on the ccssl algorithm. [links here](https://github.com/TencentYoutuResearch/Classification-SemiCLS)
+ - Our code is build on the ccssl algorithm. ([links here])(https://github.com/TencentYoutuResearch/Classification-SemiCLS)
 ## Requirements:
   * Python == 3.11.8
   * Pytorch == 2.2.1 + Cuda == 12.1
