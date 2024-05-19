@@ -15,4 +15,21 @@
   
   **2.**  After splitting, dataset folder structure should be like following:
   #### Take the BOE as an example：
-  
+  - Semi_BOEdata
+    - test
+      - AMD
+      - DME
+      - NORMAL
+    - train
+      - AMD
+      - DME
+      - NORMAL
+    - unlabel
+      - AMD
+      - DME
+      - NORMAL
+    - val
+      - AMD
+      - DME
+      - NORMAL
+    
