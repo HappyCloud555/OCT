@@ -40,4 +40,4 @@
    - "--out" refers to the output directory.
 
   **3.** Run the "train.py" script. You can check the training process on console or tensorboard, logs will be saved in the output directory that set in step 2, model parameters will be saved too.
-  - Our code is build on the ccssl algorithm. -[links here](https://github.com/TencentYoutuResearch/Classification-SemiCLS)
+  Our code is build on the ccssl algorithm. -[links here](https://github.com/TencentYoutuResearch/Classification-SemiCLS)
