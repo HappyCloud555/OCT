@@ -1,5 +1,4 @@
-# OCT Classicication task for AMD/DME/CNV/DRUSEN
- - Our code is build on the ccssl algorithm. -[links here](https://github.com/TencentYoutuResearch/Classification-SemiCLS)
+# Retinopathy Identification} in Optical Coherence Tomography Images Based on a Novel Class-Aware Contrastive Learning Approach
 ## Requirements:
   * Python == 3.11.8
   * Pytorch == 2.2.1 + Cuda == 12.1
@@ -41,4 +40,4 @@
    - "--out" refers to the output directory.
 
   **3.** Run the "train.py" script. You can check the training process on console or tensorboard, logs will be saved in the output directory that set in step 2, model parameters will be saved too.
- 
+  - Our code is build on the ccssl algorithm. -[links here](https://github.com/TencentYoutuResearch/Classification-SemiCLS)
