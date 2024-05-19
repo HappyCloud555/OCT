@@ -10,3 +10,7 @@
   | BOE    | [Click here to download](https://people.duke.edu/~sf59/Srinivasan_BOE_2014_dataset.htm) |
   | CELL    | [Click here to download](https://www.kaggle.com/datasets/paultimothymooney/kermany2018) |
   | RetinalOCT    | [Click here to download](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8) |
+### B-Move these datasets to "OCT-Classifier/dataset" directory
+  **1.**  Run the xx_dataset_split.py to split dataset automatically.
+  
+  **2.**  
