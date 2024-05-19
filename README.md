@@ -35,7 +35,9 @@
 ### C-Run the model:
   **1.** Configure the "config.py", set the dataset name and the dataset root directory.
 
-  **2.** Set the args in "train.py".
+  **2.** Set the args in "train.py". 
+   - "--cfg" refers to the "config.py" above.
+   - "--out" refers to the output directory.
 
-  **3.** Run the "train.py" script.
+  **3.** Run the "train.py" script. You can check the training process on console or tensorboard, logs will be saved in the output directory that set in step 2, model parameters will be saved too.
  
