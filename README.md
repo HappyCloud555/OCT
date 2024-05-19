@@ -32,4 +32,10 @@
       - AMD
       - DME
       - NORMAL
-    
+### C-Run the model:
+  **1.** Configure the "config.py", set the dataset name and the dataset root directory.
+
+  **2.** Set the args in "train.py".
+
+  **3.** Run the "train.py" script.
+ 
