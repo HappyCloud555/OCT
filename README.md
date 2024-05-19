@@ -13,4 +13,6 @@
 ### B-Move these datasets to "OCT-Classifier/dataset" directory
   **1.**  Run the xx_dataset_split.py to split dataset automatically.
   
-  **2.**  
+  **2.**  After splitting, dataset folder structure should be like following:
+  #### Take the BOE as an example：
+  
