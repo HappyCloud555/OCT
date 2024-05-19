@@ -1,9 +1,9 @@
 # OCT Classicication task for AMD/DME/CNV/DRUSEN
 ## Requirements:
-  * Python==3.11.8
-  * Pytorch==2.2.1 + Cuda == 12.1
-  * Tensorboard==2.16.2
-  * Numpy==1.24.3
+  * Python == 3.11.8
+  * Pytorch == 2.2.1 + Cuda == 12.1
+  * Tensorboard == 2.16.2
+  * Numpy == 1.24.3
 ### A-Download the dataset from this following links:
   | Resource | download link |
   | -------- | -------- |
