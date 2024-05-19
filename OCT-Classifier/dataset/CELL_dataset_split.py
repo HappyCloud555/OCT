@@ -8,7 +8,7 @@ import random
 random.seed(0)
 from shutil import copyfile
 
-output_bynumber = "OCT2017_200"
+output_bynumber = "CELL"
 
 def img_train_test_split(img_source_dir, train_size):
     """
@@ -96,7 +96,7 @@ def img_train_test_split(img_source_dir, train_size):
     print("Split End")
 
 # Check the dataset
-if not os.path.exists('./dataset/OCT2017'):
+if not os.path.exists('./dataset/CELL'):
     print("CELL dataset not exists")
     exit()
 
@@ -110,6 +110,6 @@ if os.path.exists('./dataset/'+output_bynumber+'/unlabel/'):
 if os.path.exists('./dataset/'+output_bynumber+'/val/'):
     shutil.rmtree('./dataset/'+output_bynumber+'/val/')
 
-data_dir = './dataset/OCT2017/train'
+data_dir = './dataset/CELL/train'
 train_size = 50  # number of training samples for each class
 img_train_test_split(data_dir, train_size)
