@@ -1,4 +1,4 @@
-# Retinopathy Identification} in Optical Coherence Tomography Images Based on a Novel Class-Aware Contrastive Learning Approach
+# Retinopathy Identification in Optical Coherence Tomography Images Based on a Novel Class-Aware Contrastive Learning Approach
 ## Requirements:
   * Python == 3.11.8
   * Pytorch == 2.2.1 + Cuda == 12.1
